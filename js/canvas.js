@@ -8,9 +8,7 @@ function generateDecimalBetween(left, right) {
 class Bubble {
     constructor(canvas) {
         this.canvas = canvas;
-
         this.getCanvasSize();
-
         this.init();
     }
   
